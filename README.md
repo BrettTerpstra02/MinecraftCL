@@ -3,4 +3,4 @@ MinecraftCL aims to bring OpenCL support to my game, totalcrafter/minecraft3, an
 https://github.com/Tri11Paragon/TotalCrafter/blob/main/README.md <br>
 !Working on actual Minecraft Support. Note: tested on my 1060 and 3800x. You will get much better improvements with newer cards.!<br>
 # Normal Minecraft
-Currently the plan is to reimplement the Minecraft server protocol with a focus on parallelization & OpenCL.
+The plan is to support Minecraft. Coming soon.
